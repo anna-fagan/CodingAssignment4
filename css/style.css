@@ -1,0 +1,24 @@
+body{
+    background:#3d5a80;
+    font-family:Geneva;
+    color:#98c1d9
+}
+a{
+    background:#98c1d9;
+    color:#124559;
+    padding:10px;
+}
+.image{
+    margin:auto;
+    width:50%;
+    padding:10px;
+}
+/* .link{
+    background:#98c1d9;
+    color:#124559;
+    height: fit-content;
+    width: fit-content;
+    display:block;
+    text-align:center;
+    padding:5px;
+} */
