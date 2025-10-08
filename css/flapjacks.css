@@ -57,7 +57,6 @@ div {
 input
 fieldset{
     background-color:#5f3e25;
-    float:right;
     display:inline-block;
 }
 /*background:#5f3e25;*/
@@ -94,10 +93,17 @@ fieldset{
     margin-right:auto;
     text-align:center;
     padding:20px;
+
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
 }
+
 .center-text{
     text-align:center;
 }
+
 #div{
     margin:auto;
     padding:40px;
