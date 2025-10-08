@@ -98,3 +98,6 @@ fieldset{
 .center-text{
     text-align:center;
 }
+#div{
+    margin:auto;
+}
