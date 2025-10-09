@@ -12,6 +12,10 @@ h2 {
     text-align: center;
 }
 
+hr {
+    max-width: 80%;
+}
+
 div.recipe-cards {
     display: flex;
     align-items: center;
