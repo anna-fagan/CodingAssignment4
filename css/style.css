@@ -4,15 +4,16 @@ body{
 }
 
 h1,h2,h3 {
-    font-family:Geneva;
     color: #98c1d9;
 }
 
 h1 {
+    font-family:Geneva;
     text-align: center;
 }
 
 h2 {
+    font-family:Geneva;
     text-align: center;
 }
 
